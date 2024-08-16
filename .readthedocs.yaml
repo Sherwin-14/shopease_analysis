@@ -1,0 +1,29 @@
+# .readthedocs.yml
+
+# The version of the documentation to build
+version: latest
+
+# The name of the documentation
+name: ShopEase EDA Docs
+
+# The repository URL
+repo_url: https://github.com/Sherwin-14/shopease_analysis
+
+# The documentation format
+format: mkdocs
+
+# The MkDocs configuration file
+mkdocs_config_file: mkdocs.yml
+
+# The documentation build directory
+build_dir: site
+
+# The documentation theme
+theme: readthedocs
+
+# The language of the documentation
+language: en
+
+# The copyright information for the documentation
+copyright: 2024 Sherwin Varghese
+
