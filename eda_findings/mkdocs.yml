@@ -1,5 +1,6 @@
 site_name: EDA Docs For Ecommerce Analysis
-site_url: https://mydomain.org/ecommerce
+site_dir: .
+site_url: https://shopease.org/ecommerce
 nav:
   - Home: home.md
   - Categories and Items: Categories_and_Items.md
