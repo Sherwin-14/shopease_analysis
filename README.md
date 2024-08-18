@@ -4,6 +4,10 @@
 
 This project involves the analysis of e-commerce store data for Shopease to derive valuable insights and build a machine learning model for customer segmentation. The analysis focuses on understanding customer behavior and preferences through RFM (Recency, Frequency, Monetary) analysis.
 
+## Web App
+
+You can access the web application for the Prices and Brands Analysis [here](https://shopease.streamlit.app/prices_and_brands_analysis).
+
 ## Project Description
 
 The primary goal of this project is to analyze customer data from Shopease to identify patterns and segments within the customer base. By applying RFM analysis, we can categorize customers based on their purchasing behavior, which can help in targeted marketing and improving customer retention.
