@@ -1,4 +1,4 @@
-# EDA Docs For Ecommerce Analysis
+# ShopEase Ecommerce Analysis
 
 ## Overview
 
