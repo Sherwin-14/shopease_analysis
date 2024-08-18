@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://shopease.org/ecommerce/</loc>
+         <lastmod>2024-08-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://shopease.org/ecommerce/Categories_and_Items/</loc>
-         <lastmod>2024-08-17</lastmod>
+         <lastmod>2024-08-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shopease.org/ecommerce/Customer_Segmentation_model/</loc>
-         <lastmod>2024-08-17</lastmod>
+         <lastmod>2024-08-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shopease.org/ecommerce/Prices_and_Brands/</loc>
-         <lastmod>2024-08-17</lastmod>
+         <lastmod>2024-08-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shopease.org/ecommerce/Time_Distribution_Analysis/</loc>
-         <lastmod>2024-08-17</lastmod>
+         <lastmod>2024-08-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shopease.org/ecommerce/brand_analysis_extended/</loc>
-         <lastmod>2024-08-17</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://shopease.org/ecommerce/home/</loc>
-         <lastmod>2024-08-17</lastmod>
+         <lastmod>2024-08-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://shopease.org/ecommerce/requested_analysis_extended/</loc>
-         <lastmod>2024-08-17</lastmod>
+         <lastmod>2024-08-18</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>

@@ -1,13 +1,14 @@
 site_name: EDA Docs For Ecommerce Analysis
 site_url: https://shopease.org/ecommerce
 nav:
-  - Home: home.md
+  - Home: index.md  # This will create the index.html at the root of the site directory
   - Categories and Items: Categories_and_Items.md
   - Prices and Brands: Prices_and_Brands.md
   - Time Distribution Analysis: Time_Distribution_Analysis.md
   - Brand Analysis Extended: brand_analysis_extended.md
-  - Requested Items Analysis : requested_analysis_extended.md
+  - Requested Items Analysis: requested_analysis_extended.md
   - Customer Segmentation Model: Customer_Segmentation_model.md
+
 theme:
   name: material
   features:
