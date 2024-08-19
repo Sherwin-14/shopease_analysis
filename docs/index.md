@@ -4,9 +4,7 @@ This document delves into an exploratory data analysis (EDA) of [e-commerce data
 
 ## Get Started
 
-You can find the source code for this project on my [GitHub repository](https://github.com/Sherwin-14/shopease_analysis)
-
-For more information on setting up the project locally and serving the documentation, please refer to the README file.
+You can find the source code for this project on my [repo](https://github.com/Sherwin-14/shopease_analysis)
 
 Thanks for stopping by!
 
