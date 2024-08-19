@@ -14,6 +14,11 @@ theme:
   features:
     - content.code.select
 
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/sherwin14/
+
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -28,5 +33,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+
+copyright: Copyright &copy; 2024 Sherwin Varghese
+
   
     
