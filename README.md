@@ -6,7 +6,7 @@ This project involves the analysis of e-commerce store data for Shopease to deri
 
 ## Web App
 
-You can access the web application for ShopEase [here](https://shopease.streamlit.app/prices_and_brands_analysis).
+You can access the web application for ShopEase [here](https://shopease.streamlit.app/home).
 
 ## Project Description
 
