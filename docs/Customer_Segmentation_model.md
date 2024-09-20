@@ -11,14 +11,14 @@ The resulting five clusters provide a nuanced understanding of our customers, en
 
 ## Interpretation of Results
 
-1. Cluster 0: High recency, low frequency, low monetary value. This cluster might represent customers who have recently made a purchase, but don't buy frequently and don't spend much. We could call this cluster "Recent One-Time Buyers".
+1. **Cluster 0**: High recency, low frequency, low monetary value. This cluster might represent customers who have recently made a purchase, but don't buy frequently and don't spend much. We could call this cluster "**Recent One-Time Buyers**".
 
-2. Cluster 1: Low recency, low frequency, low monetary value. This cluster might represent customers who haven't made a purchase recently, don't buy frequently, and don't spend much. We could call this cluster "Inactive Customers".
+2. **Cluster 1**: Low recency, low frequency, low monetary value. This cluster might represent customers who haven't made a purchase recently, don't buy frequently, and don't spend much. We could call this cluster "**Inactive Customers**".
 
-3. Cluster 2: Low recency, high frequency, low monetary value. This cluster might represent customers who don't make purchases recently, but when they do, they buy frequently and don't spend much. We could call this cluster "Frequent Low-Spenders".
+3. **Cluster 2**: Low recency, high frequency, low monetary value. This cluster might represent customers who don't make purchases recently, but when they do, they buy frequently and don't spend much. We could call this cluster "**Frequent Low-Spenders**".
 
-4. Cluster 3: Low recency, moderate frequency, high monetary value. This cluster might represent customers who don't make purchases recently, but when they do, they spend a moderate amount of money. We could call this cluster "Moderate Value Customers".
+4. **Cluster 3**: Low recency, moderate frequency, high monetary value. This cluster might represent customers who don't make purchases recently, but when they do, they spend a moderate amount of money. We could call this cluster "**Moderate Value Customers**".
 
-5. Cluster 4: Low recency, high frequency, very high monetary value. This cluster might represent customers who don't make purchases recently, but when they do, they spend a lot of money and buy frequently. We could call this cluster "High-Value Frequent Buyers".
+5. **Cluster 4**: Low recency, high frequency, very high monetary value. This cluster might represent customers who don't make purchases recently, but when they do, they spend a lot of money and buy frequently. We could call this cluster "**High-Value Frequent Buyers**".
 
 
