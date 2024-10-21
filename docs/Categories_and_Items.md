@@ -1,7 +1,7 @@
 # Findings For Categories And Items
 
 ??? info "Insight"
-    Our sales data reveals that Electronics and Appliances dominate the market, accounting for the largest share. In contrast, Medicine lags behind, representing the smallest category. 
+    Our sales data reveals that Electronics,Appliances,Computers and Aparrel are dominating the market, accounting for the largest share. In contrast, Medicine lags behind, representing the smallest category. 
 
 ![Distribution of Main Categories](images/main_categories.png)    
 
