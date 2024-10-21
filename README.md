@@ -83,6 +83,18 @@ This customer segmentation model provides a framework for understanding customer
 
 As the primary objective of this project was to analyze the data and present insights to stakeholders, no specific recommendations are made in this report. Instead, the insights and findings presented here are intended to inform the marketing team's decision-making process.
 
+
 The marketing team can use these insights to develop targeted marketing strategies, optimize product offerings, and improve customer engagement. The specific actions and recommendations will be determined by the marketing team based on their expertise and business objectives.
+
+## Caveats and Assumptions
+
+While our analysis provides valuable insights into customer behavior and preferences, there are several caveats and assumptions that should be considered when interpreting the results.
+
+    1. Data quality and completeness: Our analysis assumes that the data is accurate, complete, and free from errors. However, in reality, data quality issues may exist, which could impact the accuracy of our findings.
+    2. Sampling bias: Our analysis is based on a sample of data, which may not be representative of the entire population. This could lead to biased results and conclusions.
+    3. Assumptions about customer behavior: Our analysis assumes that customers behave in a consistent manner, which may not always be the case. Customers may exhibit different behavior patterns over time, which could impact the accuracy of our findings.
+    4. Limited data scope: Our analysis is limited to the data provided, which may not capture all aspects of customer behavior and preferences. Additional data sources or variables may be necessary to gain a more comprehensive understanding of customer behavior.
+    5. Assumptions about product categories: Our analysis assumes that product categories are mutually exclusive and exhaustive, which may not always be the case. Products may belong to multiple categories or have ambiguous categorization, which could impact the accuracy of our findings.
+    6. Assumptions about user behavior: Our analysis assumes that users behave in a consistent manner, which may not always be the case. Users may exhibit different behavior patterns over time, which could impact the accuracy of our findings.
 
 
