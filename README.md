@@ -48,9 +48,9 @@ Our analysis of Shopease's sales data reveals that Electronics and Appliances em
 
 #### Insight 2: Brand Dominance and Opportunities
 
-A closer examination of the word cloud reveals that Bertoni, Cube, Lorelli, Audio and Link are the dominant brands driving sales and customer engagement on Shopease. To capitalize on this trend, store owners should prioritize inventory management and marketing efforts for these brands. Conversely, smaller brands like Concept Club, JVC, Denzel, and Candy, which have a relatively weaker presence, may require reevaluation or targeted promotions to increase their visibility and appeal to customers.
+A closer examination of the word cloud reveals that Bertoni, Cube,Ariston, Audio are the dominant brands driving sales and customer engagement on Shopease. To capitalize on this trend, store owners should prioritize inventory management and marketing efforts for these brands. Conversely, smaller brands like Concept Club, JVC, Denzel, and Candy, which have a relatively weaker presence, may require reevaluation or targeted promotions to increase their visibility and appeal to customers.
 
-![Data Looks Like This](https://github.com/Sherwin-14/shopease_analysis/blob/master/docs/images/most_popular_wordcloud.png)
+![Data Looks Like This](https://github.com/Sherwin-14/shopease_analysis/blob/master/docs/images/top_10_most_popular_brands_by_revenue.png)
 
 #### Insight 3: Peak Customer Activity Hours
 
