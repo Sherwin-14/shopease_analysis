@@ -1,3 +1,5 @@
+# ShopEase Ecommerce Analysis
+
 ## Background and Overview
 
 ### Problem Statement
